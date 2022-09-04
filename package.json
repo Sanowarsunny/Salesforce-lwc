@@ -1,6 +1,6 @@
 {
   "name": "@wcd/sanowarsunny.lwc-l7mrgs1g-fork-l7mrj4dx",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "serve": "npx wcd-cli@latest serve gKz2nDm2Hmt4Lcl0PHKS --open"
   }
